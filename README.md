@@ -1,3 +1,6 @@
-This is the repo for my personal website.
+You are probably looking for the actual website: https://foaly.github.io
+------------------------------------------------------------------------
 
-If you find a mistake don't hesitate to open an issue.
+This is only the repo for that website.
+
+If you find a mistake though don't hesitate to open an issue.
