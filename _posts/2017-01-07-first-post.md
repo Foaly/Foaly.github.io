@@ -1,5 +1,5 @@
 
-[Home]({{ site.url }}/index.html)
+[View all the posts]({{ site.url }}/index.html "Home: List of all blog posts" )
 
 Hello the Internet!
 ===================
@@ -9,12 +9,12 @@ I've been playing around with the idea to set up a place where I can dump ideas 
 After the 33c3 the time had finally come.
 So here we are.
 
-My main interests are in programming, especially C++, DSP and music synthesis.
+My main interests are in programming, especially C++, DSP, music synthesis and real time graphics.
 But I have a broader interest in robots, hardware, software, food...
 So basically technology and hacking in general.
 
 I am still fighting a bit with github pages and Jekyll, so things might change around a bit.
 
-Anyway I hope you I enjoy my posts.
+Anyway I hope you I enjoy my posts and maybe learn something.
 
-Hack all the thing!
+__Hack all the things!__
