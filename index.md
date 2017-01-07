@@ -1,4 +1,17 @@
-# My Website
+My Website
+==========
+
+All the blog posts:
+-------------------
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 Hello the internet! This is a test of github pages.
 
@@ -9,4 +22,4 @@ Hello the internet! This is a test of github pages.
 
 And a nice image for your viewing pleasure:
 
-![An image of a bottle Club Mate, a bottle Flora Power Mate and the text: Choose your side!](https://media.giphy.com/media/zhbrTTpmSCYog/giphy.gif)
+![Flashy gif animation](https://media.giphy.com/media/zhbrTTpmSCYog/giphy.gif)
