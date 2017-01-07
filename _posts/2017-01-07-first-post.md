@@ -1,19 +1,20 @@
-First Blog post
-===============
 
-This is my first blog post to check out how the github pages work.
+[Home]({{ site.url }}/index.html)
 
+Hello the Internet!
+===================
 
+This is my first Blog post.
+I've been playing around with the idea to set up a place where I can dump ideas and share projects I am working on.
+After the 33c3 the time had finally come.
+So here we are.
 
-Here be images!
----------------
+My main interests are in programming, especially C++, DSP and music synthesis.
+But I have a broader interest in robots, hardware, software, food...
+So basically technology and hacking in general.
 
-![Make up your mind]({{ site.url }}/asserts/images/clubmatevsflora.png)
+I am still fighting a bit with github pages and Jekyll, so things might change around a bit.
 
+Anyway I hope you I enjoy my posts.
 
-Important information
----------------------
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut magna in enim suscipit facilisis. Nunc odio sapien, tristique at sodales id, viverra nec dolor. Sed imperdiet, nulla in consectetur pretium, nulla tellus dignissim augue, sed ullamcorper leo ex vitae diam. Mauris orci ex, ultricies in ullamcorper vel, laoreet quis ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget blandit enim. Aliquam sollicitudin interdum lacus, in auctor mi tincidunt at. Nullam porttitor posuere lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat.
-
-Pellentesque mauris arcu, sagittis malesuada dui in, feugiat sollicitudin felis. Phasellus vitae semper diam, quis volutpat augue. Quisque id risus auctor, tempor sem id, sagittis augue. Integer eu luctus metus, eu condimentum nibh. Quisque ligula erat, egestas id elit nec, dignissim laoreet tellus. Aenean commodo tincidunt tortor, nec venenatis sem tristique quis. Vivamus et tincidunt dui, nec aliquam ipsum. Nunc ut turpis sagittis, tempus nisi ut, consequat quam. Aenean et dui quam. Sed pharetra ipsum in orci feugiat, sit amet pharetra tellus laoreet. Nam ultrices velit tellus, non pellentesque tortor molestie sed.
+Hack all the thing!
