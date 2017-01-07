@@ -1,8 +1,6 @@
-My Website
-==========
 
-All the blog posts:
--------------------
+Read all the blog posts:
+------------------------
 
 <ul>
   {% for post in site.posts %}
@@ -13,13 +11,11 @@ All the blog posts:
 </ul>
 
 
-Hello the internet! This is a test of github pages.
+Hello the internet! This is a my little space on the interweb.
+You can find posts about technology, programming and hacking on here.
 
- * shit
- * better
- * be
- * working
 
-And a nice image for your viewing pleasure:
+
+Here is a nice image for your viewing pleasure:
 
 ![Flashy gif animation](https://media.giphy.com/media/zhbrTTpmSCYog/giphy.gif)
