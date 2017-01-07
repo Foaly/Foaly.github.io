@@ -8,7 +8,7 @@ This is my first blog post to check out how the github pages work.
 Here be images!
 ---------------
 
-![Make up your mind]({{ site.url }}/assets/images/clubmatevsflora.png)
+![Make up your mind]({{ site.url }}/asserts/images/clubmatevsflora.png)
 
 
 Important information
