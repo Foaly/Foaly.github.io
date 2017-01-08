@@ -1,6 +1,3 @@
-
-[View all the posts]({{ site.url }}/index.html "Home: List of all blog posts" )
-
 Hello the Internet!
 ===================
 
