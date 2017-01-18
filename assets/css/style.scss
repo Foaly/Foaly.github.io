@@ -21,6 +21,16 @@ footer {
 }
 
 .license {
-    margin-top: 10px;
-    font-size: 14px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+// Github repo button fun ;)
+.btn { background-color: rgba(35, 35, 35, 0.3); }
+
+.btn:hover, .btn:focus { box-shadow: 0px 0px 15px 5px rgba(181, 232, 83, 0.9); }
+
+.btn:active {
+    background: rgba(0, 74, 11, 0.72);
+    box-shadow: inset 0px 0px 5px 3px rgba(23, 24, 23, 0.75), 0px 0px 15px 5px rgba(181, 232, 83, 0.9);
 }
