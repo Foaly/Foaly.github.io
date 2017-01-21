@@ -305,13 +305,13 @@ Besides the recipes, they have online courses describing technics, informational
 
 [//]: # (here be images)
 
-[clubmatevsflora]: ./images/molecular_tschunk/clubmateVsFlora.png "Choose your side: Club Mate vs. Flora Power"
-[setup]: ./images/molecular_tschunk/setup.png "The setup"
-[blending]: ./images/molecular_tschunk/blending.png "Will it blend?"
-[injecting]: ./images/molecular_tschunk/injecting.png "Injecting Tschunk into the alginate bath"
-[production]: ./images/molecular_tschunk/production.png "Production of molecular Tschunk spheres"
-[water bath]: ./images/molecular_tschunk/waterBath.png "Tschunk spheres in the waterbath"
-[carbonated slush sphere]: ./images/molecular_tschunk/carbonatedSphere.png "The carbonated Tschunk slush sphere!"
+[clubmatevsflora]: {{ site.url }}/assets/images/molecular_tschunk/clubmateVsFlora.png "Choose your side: Club Mate vs. Flora Power"
+[setup]: {{ site.url }}/assets/images/molecular_tschunk/setup.png "The setup"
+[blending]: {{ site.url }}/assets/images/molecular_tschunk/blending.png "Will it blend?"
+[injecting]: {{ site.url }}/assets/images/molecular_tschunk/injecting.png "Injecting Tschunk into the alginate bath"
+[production]: {{ site.url }}/assets/images/molecular_tschunk/production.png "Production of molecular Tschunk spheres"
+[water bath]: {{ site.url }}/assets/images/molecular_tschunk/waterBath.png "Tschunk spheres in the waterbath"
+[carbonated slush sphere]: {{ site.url }}/assets/images/molecular_tschunk/carbonatedSphere.png "The carbonated Tschunk slush sphere!"
 
 
 [//]: # (here be links)
