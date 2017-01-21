@@ -289,15 +289,15 @@ Links
 
 Here are some links that I used for research:
 
-The site http://www.molecularrecipes.com/ has a shit ton of recipes from  molecular gastronomy.
+The site [http://www.molecularrecipes.com/](http://www.molecularrecipes.com/) has a shit ton of recipes from  molecular gastronomy.
 They try to sell you their kits and advertising them all over the site, but the amount of information is just amazing.
 Besides the recipes, they have online courses describing technics, informational sites and Tips & Tricks (those where especially helpful!).
 
- * Overview page about spherification: http://www.molecularrecipes.com/spherification-class/
- * Spherification history (for the interested): http://www.molecularrecipes.com/spherification-class/el-bulli-spherification-history/
- * Excellent description of Reverse Spherification (this was my main source I'd say):  http://www.molecularrecipes.com/spherification-class/reverse-spherification/
- * Tips & Tricks about spherification: http://www.molecularrecipes.com/spherification-class/10-tips-create-perfect-sphere/
- * Carbonated Mojito Spheres (a similar recipe): http://www.molecularrecipes.com/spherification-1/carbonated-mojito-spheres/
+ * Overview page about spherification: [http://www.molecularrecipes.com/spherification-class/](http://www.molecularrecipes.com/spherification-class/)
+ * Spherification history (for the interested): [http://www.molecularrecipes.com/spherification-class/el-bulli-spherification-history/](http://www.molecularrecipes.com/spherification-class/el-bulli-spherification-history/)
+ * Excellent description of Reverse Spherification (this was my main source I'd say):  [http://www.molecularrecipes.com/spherification-class/reverse-spherification/](http://www.molecularrecipes.com/spherification-class/reverse-spherification/)
+ * Tips & Tricks about spherification: [http://www.molecularrecipes.com/spherification-class/10-tips-create-perfect-sphere/](http://www.molecularrecipes.com/spherification-class/10-tips-create-perfect-sphere/)
+ * Carbonated Mojito Spheres (a similar recipe): [http://www.molecularrecipes.com/spherification-1/carbonated-mojito-spheres/](http://www.molecularrecipes.com/spherification-1/carbonated-mojito-spheres/)
 
 
 
