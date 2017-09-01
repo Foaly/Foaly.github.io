@@ -19,6 +19,9 @@
     </header>
 
     <div class="container">
+      {% if page.is_post %}
+        <span id="publishingDate"> Published: {{ page.date | date_to_long_string }}</span>
+      {% endif %}
       <section id="main_content">
         {{ content }}
       </section>

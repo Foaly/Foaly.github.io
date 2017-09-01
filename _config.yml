@@ -1,3 +1,11 @@
 theme: jekyll-theme-hacker
 title: Foalys Blog
 description: My random rants about technology and other things
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
