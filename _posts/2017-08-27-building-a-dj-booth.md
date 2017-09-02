@@ -142,8 +142,8 @@ Luckily we had the soundsystem for one more night.
 #### Teardown Week
 
 We spend the next 3 days taking everything back apart and another 2 days were necessary to put everything back into storage and to clean up.
-I didn't take too many pictures of the process.
-A lot of the wooden boards on the outside were burnt, but all of the support structure was kept to maybe one day be build up again :)
+I didn't take too many pictures of the pxrocess.
+A lot of the wooden boards from the outside were burnt, but all of the support structure was kept to maybe one day be build up again :)
 
 ![Monday][monday]
 
@@ -157,43 +157,43 @@ A lot of the wooden boards on the outside were burnt, but all of the support str
 
 [//]: # (here be images)
 
-[wood]: ../assets/images/building_a_dj_booth/wood.png "A pile of wood"
-[start]: ../assets/images/building_a_dj_booth/start.png "The first pieces"
-[booth_structure]: ../assets/images/building_a_dj_booth/booth_structure.png "The basic structure"
+[wood]: {{ site.url }}/assets/images/building_a_dj_booth/wood.png "A pile of wood"
+[start]: {{ site.url }}/assets/images/building_a_dj_booth/start.png "The first pieces"
+[booth_structure]: {{ site.url }}/assets/images/building_a_dj_booth/booth_structure.png "The basic structure"
 
-[roof]: ../assets/images/building_a_dj_booth/roof.png "The roof is on"
-[booth_with_door]: ../assets/images/building_a_dj_booth/booth_with_door.png "The booth with the door in"
-[gaffa]: ../assets/images/building_a_dj_booth/gaffa.png "Gaffa tape holding it all together"
+[roof]: {{ site.url }}/assets/images/building_a_dj_booth/roof.png "The roof is on"
+[booth_with_door]: {{ site.url }}/assets/images/building_a_dj_booth/booth_with_door.png "The booth with the door in"
+[gaffa]: {{ site.url }}/assets/images/building_a_dj_booth/gaffa.png "Gaffa tape holding it all together"
 
-[sheets_inside]: ../assets/images/building_a_dj_booth/sheets_inside.png "The posters on the inside"
-[booth_with_windows]: ../assets/images/building_a_dj_booth/booth_with_windows.png "The booth got some windows"
+[sheets_inside]: {{ site.url }}/assets/images/building_a_dj_booth/sheets_inside.png "The posters on the inside"
+[booth_with_windows]: {{ site.url }}/assets/images/building_a_dj_booth/booth_with_windows.png "The booth got some windows"
 
-[overview_with_covered_back]: ../assets/images/building_a_dj_booth/overview_with_covered_back.png "Overview of the field"
-[covered_backside]: ../assets/images/building_a_dj_booth/covered_backside.png "The backside is covered"
-[soundsystem]: ../assets/images/building_a_dj_booth/soundsystem.png "The soundsystem has arrived"
+[overview_with_covered_back]: {{ site.url }}/assets/images/building_a_dj_booth/overview_with_covered_back.png "Overview of the field"
+[covered_backside]: {{ site.url }}/assets/images/building_a_dj_booth/covered_backside.png "The backside is covered"
+[soundsystem]: {{ site.url }}/assets/images/building_a_dj_booth/soundsystem.png "The soundsystem has arrived"
 
-[booth_with_sides]: ../assets/images/building_a_dj_booth/booth_with_sides.png "Finished sides"
-[ready_to_fog]: ../assets/images/building_a_dj_booth/ready_to_fog.png "Ready to fog!"
-[cockpit]: ../assets/images/building_a_dj_booth/cockpit.png "View from the cockpit"
+[booth_with_sides]: {{ site.url }}/assets/images/building_a_dj_booth/booth_with_sides.png "Finished sides"
+[ready_to_fog]: {{ site.url }}/assets/images/building_a_dj_booth/ready_to_fog.png "Ready to fog!"
+[cockpit]: {{ site.url }}/assets/images/building_a_dj_booth/cockpit.png "View from the cockpit"
 
-[speakers_with_cover]: ../assets/images/building_a_dj_booth/speakers_with_cover.png "Tanzboden booth with covered speakers"
-[tanzboden_tree]: ../assets/images/building_a_dj_booth/tanzboden_tree.png "The Tanzboden tree"
-[DJ]: ../assets/images/building_a_dj_booth/DJ.png "The view from the booth"
-[friday_night]: ../assets/images/building_a_dj_booth/friday_night.png "Tanzboden on friday night"
-[projection_fire]: ../assets/images/building_a_dj_booth/projection_fire.png "Projection on the backof the booth and the camp fire"
-[sunrise]: ../assets/images/building_a_dj_booth/sunrise.png "Sunrise!"
-[rainbow]: ../assets/images/building_a_dj_booth/rainbow.png "Rainbow!"
+[speakers_with_cover]: {{ site.url }}/assets/images/building_a_dj_booth/speakers_with_cover.png "Tanzboden booth with covered speakers"
+[tanzboden_tree]: {{ site.url }}/assets/images/building_a_dj_booth/tanzboden_tree.png "The Tanzboden tree"
+[DJ]: {{ site.url }}/assets/images/building_a_dj_booth/DJ.png "The view from the booth"
+[friday_night]: {{ site.url }}/assets/images/building_a_dj_booth/friday_night.png "Tanzboden on friday night"
+[projection_fire]: {{ site.url }}/assets/images/building_a_dj_booth/projection_fire.png "Projection on the backof the booth and the camp fire"
+[sunrise]: {{ site.url }}/assets/images/building_a_dj_booth/sunrise.png "Sunrise!"
+[rainbow]: {{ site.url }}/assets/images/building_a_dj_booth/rainbow.png "Rainbow!"
 
-[saturday_night]: ../assets/images/building_a_dj_booth/saturday_night.png "Saturday night"
-[full_projection]: ../assets/images/building_a_dj_booth/full_projection.png "The projection"
-[empty_tanzboden]: ../assets/images/building_a_dj_booth/empty_tanzboden.png "Empty Tanzboden"
+[saturday_night]: {{ site.url }}/assets/images/building_a_dj_booth/saturday_night.png "Saturday night"
+[full_projection]: {{ site.url }}/assets/images/building_a_dj_booth/full_projection.png "The projection"
+[empty_tanzboden]: {{ site.url }}/assets/images/building_a_dj_booth/empty_tanzboden.png "Empty Tanzboden"
 
-[sunday]: ../assets/images/building_a_dj_booth/sunday.png "Sunday"
-[bright_booth]: ../assets/images/building_a_dj_booth/bright_booth.png "Booth lit bright and shiny"
+[sunday]: {{ site.url }}/assets/images/building_a_dj_booth/sunday.png "Sunday"
+[bright_booth]: {{ site.url }}/assets/images/building_a_dj_booth/bright_booth.png "Booth lit bright and shiny"
 
-[monday]: ../assets/images/building_a_dj_booth/monday.png "Monday"
-[half_gone]: ../assets/images/building_a_dj_booth/half_gone.png "Half gone"
-[empty_field]: ../assets/images/building_a_dj_booth/empty_field.png "Empty field"
+[monday]: {{ site.url }}/assets/images/building_a_dj_booth/monday.png "Monday"
+[half_gone]: {{ site.url }}/assets/images/building_a_dj_booth/half_gone.png "Half gone"
+[empty_field]: {{ site.url }}/assets/images/building_a_dj_booth/empty_field.png "Empty field"
 
 [//]: # (here be links)
 
