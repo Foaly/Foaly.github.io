@@ -3,14 +3,14 @@ Building a DJ booth
 
 Hello again!
 
-This summer in August of 2017 I had the opportunity to join the awesome crew of [Schöpferkraft] [schöpferkraft] in helping them to set up their annual festival.
+This summer in August of 2017 I had the opportunity to join the awesome crew of [Schöpferkraft][schöpferkraft] in helping them to set up their annual [festival][zehn].
 Through a friend I came into the Tanzboden crew which is responsible for the festivals DJ booth and dance floor.
 Over the course of a week we build a beautiful and sturdy booth.
-I took lots of pictures and I want to share some of the here with you.
-Since I was mostly involved in the process of building the DJ booth I didn't get to many good pictures of all the other amazing things that were built for the festival, which would probably each deserve an post of their own.
+I took lots of pictures and I want to share some of them here with you.
+Since I was mostly involved in the process of building the DJ booth I didn't get to many good pictures of all the other amazing things that were built for the festival, which would probably each deserve a post of their own.
 
 
-#### Day -5
+### Day -5
 
 We started out with just a pile of wood and a rough idea that we sketched using SketchUp.
 Within one day we had the basic support structure of the booth up.
@@ -22,7 +22,7 @@ Within one day we had the basic support structure of the booth up.
 ![The basic structure!][booth_structure]
 
 
-#### Day -4
+### Day -4
 
 On the second day we put on the roof.
 One of the people organizing the Tanzboden had got a hold of some metal sheets with old, beautiful poster on them.
@@ -42,7 +42,7 @@ In our case we used it to seal the topmost screws.
 ![Gaffa tape holding it all together!][gaffa]
 
 
-#### Day -3
+### Day -3
 
 During the third day we got a lot of help from a few different people.
 Together we put in the door, some windows on the side and started to put on boards to cover the front.
@@ -54,10 +54,10 @@ We also put in a big hatch in the front, so the booth could be opened and closed
 
 
 
-#### Day -2
+### Day -2
 
 This was the big day where we picked up and installed the big sound system.
-Was that ever fun to turn it on the first time!
+Was it ever fun to turn it on the first time!
 The backside of the booth was also covered with boards.
 Additionally some lights were installed behind the windows.
 
@@ -70,10 +70,10 @@ Additionally some lights were installed behind the windows.
 
 
 
-#### Day -1
+### Day -1
 
 I didn't take many pictures on the fifth day, because everyone was really busy as it was already Thursday and there was still lots to do.
-But we were able to finish the sides with some more metal sheets and fill in the remaining holes with some more boards.
+But we were able to finish the sides with some more metal sheets and filled in the remaining holes with more wooden boards.
 
 
 ![Finished sides][booth_with_sides]
@@ -88,13 +88,13 @@ We set it up in such a way, that the fog was actually coming out of the ground!
 ![View from the cockpit!][cockpit]
 
 
-#### Day 0
+### Day 0
 
 Friday was the first day of the festival.
 There was a ton of things to finish.
 I built some covers to protect the speakers against rain.
 The decoration team spend the whole day making the space look beautiful.
-Then everything was cleaned up, the guests arrived and the party began!
+Then everything was cleaned up, the guests started arriving and the party began!
 
 ![Tanzboden booth with covered speakers][speakers_with_cover]
 
@@ -118,7 +118,7 @@ On saturday morning we had a beautiful sunrise and even a rainbow!
 ![Rainbow][rainbow]
 
 
-#### Day 2
+### Day 2
 
 ![Saturday night][saturday_night]
 
@@ -127,11 +127,11 @@ On saturday morning we had a beautiful sunrise and even a rainbow!
 ![Empty Tanzboden][empty_tanzboden]
 
 
-#### Day 3
+### Day 3
 
 And that was it!
 All the guests left on sunday and the field was all empty again.
-Luckily we had the soundsystem for one more night.
+Fortunatelly we had the soundsystem for one more night.
 
 
 ![Sunday][sunday]
@@ -139,10 +139,10 @@ Luckily we had the soundsystem for one more night.
 ![Booth lit brigth and shiny][bright_booth]
 
 
-#### Teardown Week
+### Teardown Week
 
 We spend the next 3 days taking everything back apart and another 2 days were necessary to put everything back into storage and to clean up.
-I didn't take too many pictures of the pxrocess.
+I didn't take too many pictures of the process.
 A lot of the wooden boards from the outside were burnt, but all of the support structure was kept to maybe one day be build up again :)
 
 ![Monday][monday]
@@ -198,3 +198,4 @@ A lot of the wooden boards from the outside were burnt, but all of the support s
 [//]: # (here be links)
 
 [schöpferkraft]: http://schoepferkraft.org/ "Schöpferkraft e.V. Homepage"
+[zehn]: http://schoepferkraft.org/festival/2017/index.php "Festival Homepage"
