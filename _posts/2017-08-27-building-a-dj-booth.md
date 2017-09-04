@@ -3,7 +3,7 @@ Building a DJ booth
 
 Hello again!
 
-This summer in August of 2017 I had the opportunity to join the awesome crew of [Schöpferkraft][schöpferkraft] in helping them to set up their annual [festival][zehn].
+This summer in August of 2017 I had the opportunity to join an awesome crew in helping them to set up their annual festival near Kassel, Germany.
 Through a friend I came into the Tanzboden crew which is responsible for the festivals DJ booth and dance floor.
 Over the course of a week we build a beautiful and sturdy booth.
 I took lots of pictures and I want to share some of them here with you.
@@ -47,6 +47,7 @@ In our case we used it to seal the topmost screws.
 During the third day we got a lot of help from a few different people.
 Together we put in the door, some windows on the side and started to put on boards to cover the front.
 We also put in a big hatch in the front, so the booth could be opened and closed, since it was only playing during the night.
+In the middle of the dance floor we planted a (dead) tree, which needed 8 people to carry it from the forest.
 
 ![The postes on the inside][sheets_inside]
 
@@ -196,6 +197,3 @@ A lot of the wooden boards from the outside were burnt, but all of the support s
 [empty_field]: {{ site.url }}/assets/images/building_a_dj_booth/empty_field.png "Empty field"
 
 [//]: # (here be links)
-
-[schöpferkraft]: http://schoepferkraft.org/ "Schöpferkraft e.V. Homepage"
-[zehn]: http://schoepferkraft.org/festival/2017/index.php "Festival Homepage"
