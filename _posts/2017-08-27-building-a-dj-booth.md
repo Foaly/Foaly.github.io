@@ -27,10 +27,10 @@ Within one day we had the basic support structure of the booth up.
 On the second day we put on the roof.
 One of the people organizing the Tanzboden had got a hold of some metal sheets with old, beautiful poster on them.
 We used those to tile the roof.
-Eventough it worked and looked very nice in the end it was a pain in the ass to put them together.
+Even though it worked and looked very nice in the end it was a pain in the ass to put them together.
 They were all slightly different sized and we wanted to arrange them in such a way that they would overlap so rain would flow down the roof without getting in.
 Also we had to put in a night shift, because a thunderstorm was approaching that night and we wanted to get the booth dry before it hit.
-The thunderstrom was pretty bad, but the roof held perfectly and even the sofa stayed completely dry!
+The thunderstorm was pretty bad, but the roof held perfectly and even the sofa stayed completely dry!
 
 ![The roof is on!][roof]
 
@@ -110,9 +110,9 @@ After the bands finished playing on the stage, the DJs at the Tanzboden took ove
 One thing I haven't mentioned yet is that I set up a beamer and some generative art computer program I wrote to make some colorful projection on the back of the booth.
 You can find more information about it in a future post.
 
-![Projection on the backof the booth and the camp fire][projection_fire]
+![Projection on the back of the booth and the camp fire][projection_fire]
 
-On saturday morning we had a beautiful sunrise and even a rainbow!
+On Saturday morning we had a beautiful sunrise and even a rainbow!
 
 ![Sunrise][sunrise]
 
@@ -131,8 +131,8 @@ On saturday morning we had a beautiful sunrise and even a rainbow!
 ### Day 3
 
 And that was it!
-All the guests left on sunday and the field was all empty again.
-Fortunatelly we had the soundsystem for one more night.
+All the guests left on Sunday and the field was all empty again.
+Fortunately we had the soundsystem for one more night.
 
 
 ![Sunday][sunday]
@@ -181,7 +181,7 @@ A lot of the wooden boards from the outside were burnt, but all of the support s
 [tanzboden_tree]: {{ site.url }}/assets/images/building_a_dj_booth/tanzboden_tree.png "The Tanzboden tree"
 [DJ]: {{ site.url }}/assets/images/building_a_dj_booth/DJ.png "The view from the booth"
 [friday_night]: {{ site.url }}/assets/images/building_a_dj_booth/friday_night.png "Tanzboden on friday night"
-[projection_fire]: {{ site.url }}/assets/images/building_a_dj_booth/projection_fire.png "Projection on the backof the booth and the camp fire"
+[projection_fire]: {{ site.url }}/assets/images/building_a_dj_booth/projection_fire.png "Projection on the back of the booth and the camp fire"
 [sunrise]: {{ site.url }}/assets/images/building_a_dj_booth/sunrise.png "Sunrise!"
 [rainbow]: {{ site.url }}/assets/images/building_a_dj_booth/rainbow.png "Rainbow!"
 
