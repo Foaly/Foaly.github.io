@@ -1,4 +1,8 @@
-DIY vacuum infusion
+---
+title: DIY Vacuum Infusion
+---
+
+DIY Vacuum Infusion
 ===================
 
 Hello again!

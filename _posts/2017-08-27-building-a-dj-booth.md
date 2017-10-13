@@ -1,4 +1,8 @@
-Building a DJ booth
+---
+title: Building A DJ Booth
+---
+
+Building A DJ Booth
 ===================
 
 Hello again!
