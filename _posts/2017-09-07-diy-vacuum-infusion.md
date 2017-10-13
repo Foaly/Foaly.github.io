@@ -132,7 +132,9 @@ First we cut the apples in little cubes so they would fit through the bottle ope
 Then we prepared about 120 mL of liquid by mixing the apple juice and vodka about 70% to 30% and adding 3 squeezes of lemon juice as well as 2 table spoons of brown cane sugar.
 The lemon juice was added to keep the apples from turning brown and to make them a bit more sour.
 
-![Filling the bottle][filling] ![Pumping the air out][pumping]
+| ![Filling the bottle][filling] | ![Pumping the air out][pumping] |
+|:------------------------------:|:-------------------------------:|
+|                                |                                 |
 
 ![Apples in a bottle][apples]
 
