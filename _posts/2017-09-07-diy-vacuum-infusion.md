@@ -24,7 +24,7 @@ In molecular gastronomy someone found a way to put an interesting extension to t
 Instead of dissolving the flavour of a solid in a liquid somebody came up with a way to put the flavour of a liquid into a solid using a vacuum.
 
 
-Vacuum infusion
+Vacuum Infusion
 ---------------
 
 As the first ingredient, the solid, some organic material that incorporates a lot of air in its cell structure is needed.
@@ -56,7 +56,7 @@ And those are known to be very expensive and difficult to build yourself...
 
 
 
-DIY vacuum infusion (without a vacuum pump!)
+DIY Vacuum Infusion (without a vacuum pump!)
 --------------------------------------------
 
 I was thinking of different ways to build a simple vacuum pump myself, but after looking into it for a while I decided it was simply to complicated and not feasible for such a fairly simple experiment.
@@ -120,8 +120,8 @@ If you come up with one or had fun replicating this one, send me a picture and l
 
 
 
-Grasovka Recipe [Edit 13.10.2017]
-------------------------
+Grasovka Recipe [Added 13.10.2017]
+----------------------------------
 
 While writing this article a friend of mine and me came up with a recipe that we tried and that turned out great. This time we used apples to be infused.
 
@@ -148,7 +148,7 @@ It's fun to notice the flavour change while you eat the apple.
 In a future experiment malic acid (the acid that makes apples sour) could be used instead of citric acid (lemon juice) to give the apples even more of a sour apple taste.
 
 The apple cubes are quite tasty to eat, but they do get you drunk ;)
-They taste especially good, when diped in cane sugar.
+They taste especially good, when dipped in cane sugar.
 You can also put them in your drink as a garnish.
 We froze the left over apple cubes into some ice cubes, so that they first cool your drink and then taste good when eaten.
 Freezing them into ice cubes also makes them last for a while.
