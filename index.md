@@ -1,3 +1,6 @@
+---
+title: All The Blog Posts
+---
 
 Read all the blog posts:
 ------------------------
