@@ -3,8 +3,6 @@ title: Building A DJ Booth
 tags: [Building Stuff]
 ---
 
-Building A DJ Booth
-===================
 
 Hello again!
 

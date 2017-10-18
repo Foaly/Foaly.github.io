@@ -3,8 +3,6 @@ title: DIY Vacuum Infusion
 tags: [Food Hacking]
 ---
 
-DIY Vacuum Infusion
-===================
 
 Hello again!
 

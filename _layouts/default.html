@@ -19,9 +19,21 @@
     </header>
 
     <div class="container">
-      {% if page.is_post %}
-        <span id="publishingDate"> Published: {{ page.date | date_to_long_string }}</span>
-      {% endif %}
+      <section id="postHeader">
+        {% if page.is_post %}
+          <span> Published: {{ page.date | date_to_long_string }}</span>
+        {% endif %}
+        <h1 id="title">{{ page.title }}</h1>
+        {% if page.is_post %}
+          <div class="post-categories">
+            <span> Tags:
+            {% for tag in page.tags %}
+              <a href="{{site.baseurl}}/{{ tag }}/">{{ tag }}</a>
+            {% endfor %}
+            </span>
+          </div>
+        {% endif %}
+      </section>
       <section id="main_content">
         {{ content }}
       </section>

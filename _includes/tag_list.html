@@ -1,5 +1,4 @@
 <div>
-  <h2>{{ page.title }}</h2>
   <ul>
   {% assign taggedPosts = site.posts | where_exp:"post", "post.tags contains page.title" %}
   {% for post in taggedPosts %}
