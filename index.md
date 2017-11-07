@@ -1,9 +1,19 @@
 ---
-title: All The Blog Posts
+title: Welcome!
 ---
 
+Hello the internet! This is a my little space on the interweb.
+You can find posts about technology, programming and hacking on here.
+
+Here is a nice image for your viewing pleasure:
+
+![Flashy gif animation]({{ site.url }}/assets/images/welcome.gif)
+
+
+
 Read all the blog posts:
-------------------------
+========================
+
 
 <div>
   {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
@@ -18,8 +28,9 @@ Read all the blog posts:
   {% endfor %}
 </div>
 
-Tags:
------
+
+Sorted by tags:
+---------------
 
 <div>
   <ul>
@@ -32,12 +43,3 @@ Tags:
   {% endfor %}
   </ul>
 <div>
-
-Hello the internet! This is a my little space on the interweb.
-You can find posts about technology, programming and hacking on here.
-
-
-
-Here is a nice image for your viewing pleasure:
-
-![Flashy gif animation](https://media.giphy.com/media/zhbrTTpmSCYog/giphy.gif)

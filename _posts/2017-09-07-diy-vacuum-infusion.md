@@ -37,7 +37,7 @@ First the cucumber is peeled, put into a container and well covered in the liqui
 Then the container is closed and a vacuum is pulled inside.
 The air built into the cells of the cucumber is pulled out by the vacuum and starts to bubble though the liquid.
 Once the bubbling stops the pressure is rapidly let back into the container.
-The air rushing in suddenly pushes against the liquid, which in turn pushes against the cucumber.
+The air suddenly rushing in pushes against the liquid, which in turn pushes against the cucumber.
 All the little cavities in the cucumber that used to be filled with air are now pressure filled with the liquid.
 
 Chefs in molecular cuisine like this technique, because it alters the appearance and the texture of the cucumber.
