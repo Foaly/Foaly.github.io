@@ -1,3 +1,7 @@
+---
+title: First Post
+---
+
 Hello the Internet!
 ===================
 
