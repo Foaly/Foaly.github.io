@@ -27,4 +27,4 @@ __Hack all the things!__
 
 [//]: # (here be links)
 
-[Tschunk post]: ({{ site.baseurl }}{% post_url 2017-01-21-molecular-tschunk %}) "Molecular Tschunk Post"
+[Tschunk post]: {{ site.baseurl }}{% post_url 2017-01-21-molecular-tschunk %} "Molecular Tschunk Post"
