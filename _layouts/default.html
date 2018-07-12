@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en" }}">
   <head>
     <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title>{{ site.title | append: ' - ' | append: page.title }}</title>
@@ -28,7 +28,7 @@
           <div class="post-categories">
             <span> Tags:
             {% for tag in page.tags %}
-              <a href="{{site.baseurl}}/{{ tag }}/">{{ tag }}</a>
+              <a href="{{site.baseurl}}/{{ tag | uri_escape }}/">{{ tag }}</a>
             {% endfor %}
             </span>
           </div>
@@ -64,7 +64,7 @@
     </script>
 
     <!-- Piwik -->
-    <script type="text/javascript">
+    <script>
       var _paq = _paq || [];
       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
       _paq.push(['trackPageView']);

@@ -36,7 +36,7 @@ Sorted by tags:
   <ul>
   {% for tag in site.tags %}
     <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70 }}%">
-        <a href="/{{ tag | first | slugize }}/">
+        <a href="/{{ tag | first | slugize | uri_escape }}/">
             {{ tag | first }} ({{ tag | last | size }})
         </a>
     </li>
