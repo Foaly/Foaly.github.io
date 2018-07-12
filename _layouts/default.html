@@ -24,7 +24,7 @@
           <span> Published: {{ page.date | date_to_long_string }}</span>
         {% endif %}
         <h1 id="title">{{ page.title }}</h1>
-        {% if page.is_post %}
+        {% if page.is_post and page.tags.size > 0 %}
           <div class="post-categories">
             <span> Tags:
             {% for tag in page.tags %}
