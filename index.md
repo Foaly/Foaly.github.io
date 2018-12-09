@@ -2,7 +2,7 @@
 title: Welcome!
 ---
 
-Hello the internet! This is a my little space on the interweb.
+Hello the internet! This is my little space on the interwebs.
 You can find posts about technology, programming and hacking on here.
 
 Here is a nice image for your viewing pleasure:
