@@ -13,7 +13,7 @@ So unfortunately around a year ago after never experiencing any problems with it
 After a waiting period, and hoping for the return of the sense passed, my doctor suggested a cochlear implant.
 I did quiet a lot of research and it became apparent really fast, that a CI (cochlear implant) is pretty much the only option for me besides not doing anything at all.
 
-Since I'm in the field of computer science and focusing on audio technology I was quickly interested by these devices.
+Since I'm in the field of computer science and focusing on audio technology I was quickly interested in these devices.
 If like me you've never heard of them before you should go check them out.
 Seriously, this is a wonder of modern medicine and technology!
 [Wikipedia on CIs][CI wiki].
@@ -26,7 +26,7 @@ Even though this sounds like super hightech alien technology from outer space (a
 The frequency range and resolution is quiet limited and everything sounds very high pitched, bleepy and mechanical.
 The audiologists and doctors call it auditory impression for a reason.
 But with training you are able to get speech comprehension and some sense of directional localization of sounds.
-That is because the real accomplishment is not the CI, but done by the brain.
+That is because the real accomplishment is not the CI, but comes from the brain.
 The brain is so adaptive that it simply accepts the weird noises as a new input and slowly learns to extract speech and other sounds from the beeps and the spherical noise.
 
 I also realized I am a true cyborg in every sense of the word now, since I got technology implanted directly onto my nervous system.
@@ -35,11 +35,11 @@ That send me down a fun internet rabbit hole where among a lot of other cool thi
 After his brain got used to the new input he actually implanted the antenna into his skull.
 
 Those two things, realizing that I am a cyborg now and that the brain is able to adapt new inputs into a sense got me thinking.
-What senses could I build and how could I extend my perception of the world into different spectra that humans by nature are not able to experience.
+What senses could I build and how could I extend my perception of the world into different spectra that humans by nature are not able to experience?
 For me this is a fascinating topic, as it challenges our concept of an objective reality.
-A bat has no way to perceive color and orients only by sound reflections of where things are and how they move.
+A bat for example has no concept of collor as it has no way to perceive it and orients only by the sound reflections of where things are and how they move.
 Bees use UV light from the sun to orient themself with respect to their hive.
-Their perspective on the world is radically different then ours.
+Their perspective on the world is radically different then ours because of their senses.
 
 
 A sense for data
@@ -49,8 +49,8 @@ In the information age we live in data is one of the basic buildings blocks.
 Even though it has become an integral part of our life, paces everything from motors to economies and surrounds us everyday there is no way for humans to sense data around you.
 Most data is sent via fibre optics or cables, but a big chunk is also transmitted through the air around us using radio waves.
 The spectrum is actually quiet full.
-For example the cell phone frequencies from GSM to 5G, bluetooth, wifi or amateur radio channels just to name a few.
-All those are used to send internet data which is what I was interested in, because its the type of data we most consciously access.
+For example the cell phone frequencies from GSM to 5G, bluetooth, wifi or amateur radio channels just to name a few are all used to send around data.
+Specfically internet data, which is what I was interested in, because its the type of data we most consciously access ourselfs.
 I went for wifi as it is widely used in our everyday life and a lot simpler than LTE or other mobile networks.
 Also cheap hardware is readily available.
 
@@ -59,16 +59,16 @@ I took a NodeMCU with an ESP-8266 wifi chip.
 Then I wrote some code so the chip cycles through all 13 wifi channels in the 2.4 GHz band and simply counts the amount of packet that it receives on each channel.
 The NodeMCU is then connected to a Teensy 3.6 with an audio shield.
 The code on Teensy runs 13 oscillators with a different tone each.
-All 13 tones are on the pentatonic scale (all the black keys ;)) so no matter which combination of tones is played together they still sound harmonic.
+All 13 tones are on the pentatonic scale (all the black keys on a piano ;)) so no matter which combination of tones is played together they still sound harmonic.
 So in a way each oscillator is linked to a wifi channel.
 The amount of data that is received on that channel influences the rate at which the oscillators fires.
 
-Listening in to the sounds the wifi data generates offers a sense how much data is sent around you and how it is distributed in the spectrum.
+Listening in to the sounds the wifi data generates offers a sense how much data is sent around you and how it is distributed in the wifi spectrum.
 I found that in a big city the sounds can often be quiet chaotic and sometimes cacophonous.
 But its also fun to find spots where there is no wifi at all like parks or elevators.
 Getting a feel for the spectrum usage comes quiet naturally.
 The presence or absence of high or low tones is easily detected.
-Changes in throughput (which is like to the rate at which the tones fire) is also still noticeable even when there are a lot of sound playing at the same time.
+Changes in throughput (which is linked to the rate at which the tones fire) is also still noticeable even when there are a lot of sound playing at the same time.
 
 I've also used a little transmitter called MiniMic to connect my wifi sense directly to the cochlear implant.
 When doing this I ran into issues with the limited frequency resolution of the CI.
