@@ -53,6 +53,7 @@ For example the cell phone frequencies from GSM to 5G, bluetooth, wifi or amateu
 Specfically internet data, which is what I was interested in, because its the type of data we most consciously access ourselfs.
 I went for wifi as it is widely used in our everyday life and a lot simpler than LTE or other mobile networks.
 Also cheap hardware is readily available.
+The materials for the whole project cost less than 50 Euros.
 
 So here is how I built my new sense.
 I took a NodeMCU with an ESP-8266 wifi chip.
