@@ -11,7 +11,7 @@ This time I want to show you something that I built which is a little more unusu
 To understand how this project came to be, here is a little bit of background about myself.
 So unfortunately around a year ago after never experiencing any problems with it I suddenly lost my hearing in one ear.
 After a waiting period, and hoping for the return of the sense passed, my doctor suggested a cochlear implant.
-I did quiet a lot of research and it became apparent really fast, that a CI (cochlear implant) is pretty much the only option for me besides not doing anything at all.
+I did quite a lot of research and it became apparent really fast, that a CI (cochlear implant) is pretty much the only option for me besides not doing anything at all.
 
 Since I'm in the field of computer science and focusing on audio technology I was quickly interested in these devices.
 If like me you've never heard of them before you should go check them out.
@@ -23,13 +23,13 @@ On the outside you wear a sound processor which turn acoustic signals into elect
 So the signal flow is as follows: audio gets converted to electrical pulses, which are then transmitted through the skin to the electrodes and trigger the nerve.
 
 Even though this sounds like super hightech alien technology from outer space (and it is), a CI is still a rather crude approximation of hearing.
-The frequency range and resolution is quiet limited and everything sounds very high pitched, bleepy and mechanical.
+The frequency range and resolution is quite limited and everything sounds very high pitched, bleepy and mechanical.
 The audiologists and doctors call it auditory impression for a reason.
 But with training you are able to get speech comprehension and some sense of directional localization of sounds.
 That is because the real accomplishment is not the CI, but comes from the brain.
 The brain is so adaptive that it simply accepts the weird noises as a new input and slowly learns to extract speech and other sounds from the beeps and the spherical noise.
 
-I also realized I am a true cyborg in every sense of the word now, since I got technology implanted directly onto my nervous system.
+I also realized I am a true cyborg in every sense of the word now, since I have technology implanted directly onto my nervous system.
 In my case replacing a sense organ.
 That send me down a fun internet rabbit hole where among a lot of other cool things I discovered [Neil Harbisson][neil harbisson wiki] a fellow cyborg, who was born color blind, but built himself an antenna which allowed him to perceive color.
 After his brain got used to the new input he actually implanted the antenna into his skull.
@@ -48,9 +48,10 @@ A sense for data
 In the information age we live in data is one of the basic buildings blocks.
 Even though it has become an integral part of our life, paces everything from motors to economies and surrounds us everyday there is no way for humans to sense data around you.
 Most data is sent via fibre optics or cables, but a big chunk is also transmitted through the air around us using radio waves.
-The spectrum is actually quiet full.
+The spectrum is actually quite full.
 For example the cell phone frequencies from GSM to 5G, bluetooth, wifi or amateur radio channels just to name a few are all used to send around data.
-Specfically internet data, which is what I was interested in, because its the type of data we most consciously access ourselfs.
+Specifically internet data, which is what I was interested in, because its the type of data we most consciously access ourselves.
+This let me to create a sense which enables you to experience the wifi around you.
 I went for wifi as it is widely used in our everyday life and a lot simpler than LTE or other mobile networks.
 Also cheap hardware is readily available.
 The materials for the whole project cost less than 50 Euros.
@@ -65,9 +66,9 @@ So in a way each oscillator is linked to a wifi channel.
 The amount of data that is received on that channel influences the rate at which the oscillators fires.
 
 Listening in to the sounds the wifi data generates offers a sense how much data is sent around you and how it is distributed in the wifi spectrum.
-I found that in a big city the sounds can often be quiet chaotic and sometimes cacophonous.
+I found that in a big city the sounds can often be quite chaotic and sometimes cacophonous.
 But its also fun to find spots where there is no wifi at all like parks or elevators.
-Getting a feel for the spectrum usage comes quiet naturally.
+Getting a feel for the spectrum usage comes quite naturally.
 The presence or absence of high or low tones is easily detected.
 Changes in throughput (which is linked to the rate at which the tones fire) is also still noticeable even when there are a lot of sound playing at the same time.
 
@@ -88,6 +89,7 @@ The code for both microcontrollers is open source under the GPLv3 and can be fou
 
 
 In the future I would like to produce something to make this experience more accessible to a wider audience.
+Even though everybody can experience the sense using headphones, I want to create something that lets you explore different environments using the sense.
 But I wanted to publish this before the 35c3 hacker conference.
 So lets see what happens the beginning of next year :)
 
