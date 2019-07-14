@@ -175,5 +175,5 @@ Freezing them into ice cubes also makes them last for a while.
 
 [wiki infusion]: https://en.wikipedia.org/wiki/Infusion "Wikipedia Infusion"
 [dave arnold blog]: http://www.cookingissues.com/index.html%3Fp=864.html "Dave Arnold Blogpost"
-[twitter foaly]: https://twitter.com/Foaly9 "Foaly @ Twitter"
+[twitter foaly]: https://twitter.com/CyborgFoaly "Foaly @ Twitter"
 [zubrovka wiki]: https://en.wikipedia.org/wiki/%C5%BBubr%C3%B3wka "Wikipedia Żubrówka"

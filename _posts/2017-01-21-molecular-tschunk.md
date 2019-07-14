@@ -328,6 +328,6 @@ Besides the recipes, they have online courses describing technics, informational
 [molrec pro con]: http://www.molecularrecipes.com/spherification-class/reverse-spherification/ "Reverse Spherification on molecularrecipes.com"
 [wiki guar gum]: https://en.wikipedia.org/wiki/Guar_gum "Wikipedia Guar Gum"
 [wiki osmosis]: https://en.wikipedia.org/wiki/Osmosis "Wikipedia Osmosis"
-[twitter foaly]: https://twitter.com/Foaly9 "Foaly @ Twitter"
+[twitter foaly]: https://twitter.com/CyborgFoaly "Foaly @ Twitter"
 [github foaly]: https://github.com/Foaly/Foaly.github.io "Foaly @ GitHub"
 [wiki faraday cage]: https://en.wikipedia.org/wiki/Faraday_cage "Wikipedia Faraday cage"
