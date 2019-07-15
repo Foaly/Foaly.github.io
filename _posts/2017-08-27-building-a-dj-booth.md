@@ -1,6 +1,7 @@
 ---
 title: Building A DJ Booth
 tags: [Building Stuff]
+redirect_from: "/2017/08/27/building-a-dj-booth.html"
 ---
 
 

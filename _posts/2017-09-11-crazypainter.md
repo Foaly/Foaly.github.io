@@ -1,6 +1,7 @@
 ---
 title: CrazyPainter
 tags: [Software]
+redirect_from: "/2017/09/11/crazypainter.html"
 ---
 
 

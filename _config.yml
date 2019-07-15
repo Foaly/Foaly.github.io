@@ -10,3 +10,8 @@ defaults:
     values:
       is_post: true # automatically set is_post=true for all posts
       layout: default # use the default layout by default...
+
+plugins:
+  - jekyll-redirect-from
+
+permalink: none # use only the title and not the date in the URL

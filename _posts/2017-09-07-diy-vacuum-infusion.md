@@ -1,6 +1,7 @@
 ---
 title: DIY Vacuum Infusion
 tags: [Food Hacking]
+redirect_from: "/2017/09/07/diy-vacuum-infusion.html"
 ---
 
 

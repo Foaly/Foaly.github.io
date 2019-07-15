@@ -1,5 +1,6 @@
 ---
 title: First Post
+redirect_from: "/2017/01/07/first-post.html"
 ---
 
 Hello the Internet!

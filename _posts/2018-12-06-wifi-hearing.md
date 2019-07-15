@@ -1,6 +1,7 @@
 ---
 title: Cyborg Wifi Hearing
 tags: [Software]
+redirect_from: "/2018/12/06/wifi-hearing.html"
 ---
 
 ![Header image][header]

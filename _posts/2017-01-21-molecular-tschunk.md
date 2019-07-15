@@ -1,6 +1,7 @@
 ---
 title: Everything You Never Wanted To Know About Molecular Tschunk
 tags: [Food Hacking]
+redirect_from: "/2017/01/21/molecular-tschunk.html"
 ---
 
 
