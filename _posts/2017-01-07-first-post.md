@@ -20,7 +20,7 @@ So basically technology and hacking in general.
 
 I am still fighting a bit with github pages and Jekyll, so things might change around a bit.
 
-Anyway I hope you I enjoy my posts and maybe learn something.
+Anyway I hope you enjoy my posts and maybe learn something.
 
 __Hack all the things!__
 

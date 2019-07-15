@@ -1,6 +1,6 @@
 ---
 title: Cyborg Wifi Hearing
-tags: [Software]
+tags: [Software, Building Stuff]
 redirect_from: "/2018/12/06/wifi-hearing.html"
 ---
 

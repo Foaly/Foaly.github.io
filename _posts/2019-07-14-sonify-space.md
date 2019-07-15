@@ -6,7 +6,7 @@ tags: [Building Stuff]
 
 Hello again!
 
-I made a new thing and it turned out quite cool, so I wanted to share some pictures of the build process and the finished result with you :)
+I made a new thing and I think it turned out quite cool, so I wanted to share some pictures of the build process and the finished result with you :)
 
 ![The finished installation][finished]
 
@@ -14,14 +14,15 @@ Continuing to follow the idea of extending the human senses with technology to c
 Similar to how people enjoy listening to the rain I wanted to create an experience that lets you listen to the solar rain.
 My first idea was to use a GPS sensor to get your current position and let you listen to the particles directly above you.
 Unfortunatelly, but logically, real "movement" in the data happens only every 12 hours with the sun cycle.
-So to get some more variance and interactivity I turned it into an installation instead and made a map of the world with an intensity overlay as an input.
+So to get some more variance and interactivity I turned it into an installation instead.
+As the input I made an interactive map of the world with an intensity overlay.
 Choosing a position on the map lets you experience the current solar rain at that point.
 The data I used to influence the sound is the total electron count in the ionosphere, which is made [available by the European Space Agency][esa] (ESA) in near real-time.
 To make it look nice I took an old CRT monitor and gave it a crashed space ship look.
 I already have a few ideas on how to improve it, so maybe I will bring it along to the CCC congress at the end of the year :)
 
 
-#### Description of the installation
+### Description of the installation
 
 > The piece on display is a module recovered from the remains of a crashed spacecraft.
 > Studying it revealed it was used by an alien, space fairing civilization to tune into the winds and particle storms of stars.
